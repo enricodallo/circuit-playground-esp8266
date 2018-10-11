@@ -1,0 +1,17 @@
+{
+    "name": "circuit-playground-esp8266",
+    "version": "0.0.1",
+    "description": "MakeCode extension, for ESP-01 wifi module on Circuit Playground",
+    "license": "MIT",
+    "dependencies": {
+        "circuit-playground": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false
+}
