@@ -9,5 +9,12 @@
     "files": [
         "custom.ts",
         "README.md"
-    ]
+    ],
+    "card": {
+        "name": "Esp-01 WiFi",
+        "description": "WiFi and IoT on Circuit Playground? connect a low-cost hardware module Esp-01: you will be able to send and receive strings, interacting with IFTTT, Blynk, and every other RESTful app!",
+        "cardType": "hw",
+        "imageUrl": "cover.jpg"
+    },
+    "public": true
 }
