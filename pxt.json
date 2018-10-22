@@ -1,7 +1,7 @@
 {
-    "name": "circuit-playground-wifi-esp8266",
+    "name": "WiFi Ear Cuff for CP",
     "version": "0.0.1",
-    "description": "MakeCode extension, for ESP-01 wifi module connected to Circuit Playground",
+    "description": "MakeCode extension, for ESP8266-01 wifi module, connected to Circuit Playground through a Ear Cuff for CP add-on",
     "license": "MIT",
     "dependencies": {
         "circuit-playground": "*"
