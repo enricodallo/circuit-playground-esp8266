@@ -1,5 +1,5 @@
 {
-    "name": "WiFi - Ear Cuff for CP",
+    "name": "ear-cuff",
     "version": "0.0.1",
     "description": "MakeCode extension, for ESP8266-01 wifi module, connected to Circuit Playground through a Ear Cuff for CP add-on",
     "license": "MIT",
@@ -11,7 +11,7 @@
         "README.md"
     ],
     "card": {
-        "name": "Esp-01 WiFi",
+        "name": "ear-cuff",
         "description": "WiFi and IoT on Circuit Playground? connect a low-cost hardware module Esp-01: you will be able to send and receive strings, interacting with IFTTT, Blynk, and every other RESTful app!",
         "cardType": "hw",
         "imageUrl": "cover.jpg"
